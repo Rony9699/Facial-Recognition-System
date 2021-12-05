@@ -3,17 +3,19 @@ A java desktop app created with JavaSwing that allows the admnistrator to regist
 
 ![login](https://user-images.githubusercontent.com/77987150/144744994-cb0977b6-3713-4d9e-b23c-230363b4627f.PNG)
 
+User will receive a message that will automatically direct him to Settings page.
+
 ![Menu](https://user-images.githubusercontent.com/77987150/144744977-90aadd8b-a8f1-48d1-804d-55353a9a4dcd.PNG)
 
 After Saving information, Student will be assigned an ID.
 
-
 ![Student Info](https://user-images.githubusercontent.com/77987150/144745032-b48772a9-c52e-4c27-ad98-b34b80e0a48e.PNG)
 
-![image](https://user-images.githubusercontent.com/77987150/144745215-12b56f0e-f3ec-437b-80fb-5651f1ecb715.png)
-
 After Detecting the face, Student is recognized by the LBPH Algorithm and the system shows  the suitable information.
+
 ![Recognize face](https://user-images.githubusercontent.com/77987150/144745015-4b4afa8c-5f9d-4128-9657-d82260faf5a9.PNG)
+
+User should click Edit to be able to modify Data in Controls and After clicking Print button in Records page, the system will generate a pdf file containing data about the selected student in the table.
 
 ![recordss](https://user-images.githubusercontent.com/77987150/144745048-a0423965-d886-44da-9182-1d607ec3a4f7.PNG)
 
